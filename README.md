@@ -51,10 +51,10 @@
 ### 📊 **GitHub Stats**  
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NareshLokhande&theme=tokyonight" width="650" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naresh-Lokhande&theme=tokyonight" width="650" />
   <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NareshLokhande&theme=tokyonight" width="325" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NareshLokhande&theme=tokyonight" width="325" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naresh-Lokhande&theme=tokyonight" width="325" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naresh-Lokhande&theme=tokyonight" width="325" />
 </div>
 
 ---
